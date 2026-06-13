@@ -5,9 +5,7 @@ code-modernization-modernize-brief.md
 code-modernization-modernize-extract-rules.md
 code-modernization-modernize-harden.md
 code-modernization-modernize-map.md
-code-modernization-modernize-preflight.md
 code-modernization-modernize-reimagine.md
-code-modernization-modernize-status.md
 code-modernization-modernize-transform.md
 code-review.md
 commit-commands-clean_gone.md
@@ -25,3 +23,11 @@ pr-review-toolkit-review-pr.md
 ralph-loop-cancel-ralph.md
 ralph-loop-help.md
 ralph-loop.md
+cloudflare-build-agent.md
+cloudflare-build-mcp.md
+vercel-_conventions.md
+vercel-bootstrap.md
+vercel-deploy.md
+vercel-env.md
+vercel-marketplace.md
+vercel-status.md
